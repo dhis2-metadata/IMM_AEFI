@@ -1,1 +1,1 @@
-# AEFI - Adverse Events Following Immunization
+# Adverse Events Following Immunization - Tracker metadata package
