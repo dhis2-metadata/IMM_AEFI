@@ -1,4 +1,4 @@
-# AEFI Data Entry Exercises
+# AEFI Data Entry Exercises { #aefi-data-entry-exercises }
 
 **DHIS2 Immunization Toolkit**
 
