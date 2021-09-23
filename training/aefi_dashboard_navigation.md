@@ -1,4 +1,4 @@
-# AEFI - Dashboard Navigation
+# AEFI - Dashboard Navigation { #aefi-dashboard-navigation }
 
 **DHIS2 Immunization Toolkit**
 
