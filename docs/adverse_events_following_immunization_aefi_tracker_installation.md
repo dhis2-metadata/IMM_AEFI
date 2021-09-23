@@ -1,4 +1,4 @@
-# AEFI Tracker Installation Guide
+# AEFI Tracker Installation Guide { #aefi-installation }
 
 ## Overview
 
