@@ -1,4 +1,4 @@
-# AEFI - Data Entry Trainer's Guide
+# AEFI - Data Entry Trainer's Guide { #aefi-data-entry-trainers-guide }
 
 **DHIS2 Immunization Toolkit**
 
