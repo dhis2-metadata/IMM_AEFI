@@ -430,13 +430,13 @@ The National Level Line list has been added with the COVID updates.  This summar
 | 7 | AEFI - Date of final classification | National level stage | The date in which the final classification of the AEFI was made |
 | 8 | AEFI - Valid Diagnosis | National level stage | The validated diagnosis used for the causality assessment |
 | 9 | AEFI - Vaccine 1 name |  AEFI Stage| The name of the first vaccine that was administered to the case |
-| 10 | AEFI - Vaccination 1 date | AEFI Stage | The date in which the first vaccine was administered to the case |
+| 10 | AEFI - Vaccination 1 date | AEFI Stage | The date on which the first vaccine was administered to the case |
 | 11 | AEFI - Vaccine 2 name | AEFI Stage | The name of the second vaccine (if any) that was administered to the case |
-| 12 | AEFI - Vaccination 2 date | AEFI Stage | The date in which the second vaccine (if any) was administered to the case |
+| 12 | AEFI - Vaccination 2 date | AEFI Stage | The date on which the second vaccine (if any) was administered to the case |
 | 13 | AEFI - Vaccine 3 name | AEFI Stage | The name of the third vaccine (if any) that was administered to the case |
-| 14 | AEFI - Vaccination 3 date | AEFI Stage | The date in which the third vaccine (if any) was administered to the case |
-| 15 | AEFI - Vaccine 4 name | AEFI Stage | The name of the third vaccine (if any) that was administered to the case |
-| 16 | AEFI - Vaccination 4 date | AEFI Stage | The date in which the third vaccine (if any) was administered to the case |
+| 14 | AEFI - Vaccination 3 date | AEFI Stage | The date on which the third vaccine (if any) was administered to the case |
+| 15 | AEFI - Vaccine 4 name | AEFI Stage | The name of the fourth vaccine (if any) that was administered to the case |
+| 16 | AEFI - Vaccination 4 date | AEFI Stage | The date on which the fourth vaccine (if any) was administered to the case |
 | 17 | AEFI - Final causality assessment classification | National level stage | The final causality assessment of the AEFI as determined by the national level review team |
 | 18 | AEFI - Final causality assessment sub-classification | National level stage | The final causality assessment sub-classification of the AEFI as determined by the national level review team |
 
