@@ -203,11 +203,10 @@ The Event date for this program is named by default as the “Report date”, wh
 
 ### Program Stage 3: National Level
 
-This stage is a **non-repeatable** stage. Data is entered for this stage when the National level review has been completed and an AEFI worldwide ID can be assigned.
+This stage is a **non-repeatable** stage.
 
 The Event date for this program is named by default as the “Report date”, which assumes the date at which the report is being entered into the system. This stage replicates the WHO investigation and reporting form.  In addition, a date is included as a Data Element for analyzing the date which the report was received at National level (which is important for surveillance indicators about time between reporting).
 
-![National level](resources/images/AEFI_Tracker_design_11.png)
 
 ### Program Rules
 
