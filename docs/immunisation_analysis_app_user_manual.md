@@ -18,6 +18,14 @@ The first section covers how to use the app to produce tables and charts for ana
 
 The app consists of main view where visualisations are presented, and a menu on the left-hand side of the screen where report types and parameters are selected (see figure). A small left/right arrow allows showing and hiding the menu. Administrators can access the configuration of the app using the gear icon on the top right - this icon is not visible to regular users.
 
+Please note that due to the continuous improvement process of the DHIS2 core platform and applications, several visualizations previously only configurable within the Immunization app are now possible to be reproduced with the core “Data visualizer” app. Several visualizations have been included in the “Immunization” global dashboard:
+
+EPI - Doses and coverage by antigens - months this year
+Monitoring chart for antigens administered <1 years old child - Months this year
+Monitoring chart for antigens administered in newborns - Months this year
+Coverage and dropout rate categorization - last 12 months
+Categorization of immunization performance by district - last 12 months
+
 ![Overview.](resources/images/IMM_ANSYS_overview.png)
 
 #### The Menu
