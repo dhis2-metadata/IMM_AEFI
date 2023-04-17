@@ -6,7 +6,7 @@
 
 ## Design
 
-- [Version 1.1.0](#imm-aefi-design-110)
+- [Version 1.1.0](#imm-aefi-design)
 
 ## Installation
 
